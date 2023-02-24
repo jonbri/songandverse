@@ -1,13 +1,17 @@
 {
   "name": "songandverse",
   "version": "0.0.0-development",
-  "description": "",
+  "private": false,
+  "description": "Playing with semantic-release",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonbri/verse.git"
+  },
   "scripts": {
-    "release": "semantic-release",
     "semantic-release": "semantic-release"
   },
-  "author": "",
+  "author": "Jonathan Brink",
   "license": "ISC",
   "devDependencies": {
     "semantic-release": "^20.1.0"
@@ -18,12 +22,7 @@
       "next"
     ]
   },
-  "private": false,
   "publishConfig": {
     "access": "public"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jonbri/verse.git"
   }
 }
