@@ -1,6 +1,6 @@
 {
   "name": "songandverse",
-  "version": "0.0.0-development",
+  "version": "0.0.1",
   "private": false,
   "description": "Playing with semantic-release",
   "main": "index.js",
