@@ -1,0 +1,21 @@
+{
+  "name": "@song/verse",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "release": "semantic-release"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "semantic-release": "19.0.5"
+  },
+  "release": {
+      "branches": ["master", "next"]
+  },
+  "private": false,
+  "publishConfig": {
+      "access": "public"
+  }
+}
