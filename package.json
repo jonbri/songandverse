@@ -1,7 +1,7 @@
 {
   "name": "songandverse",
-  "version": "0.0.2",
-  "main": "index.js",
+  "version": "0.0.1",
+  "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "private": false,
   "description": "Playing with semantic-release",
