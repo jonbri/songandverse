@@ -1,3 +1,10 @@
+## [1.6.2](https://github.com/jonbri/songandverse/compare/v1.6.1...v1.6.2) (2023-11-28)
+
+
+### Bug Fixes
+
+* red ([c5265d1](https://github.com/jonbri/songandverse/commit/c5265d1b68e07d9c769ec95ffebb66add4d5c7a1))
+
 ## [1.6.1](https://github.com/jonbri/songandverse/compare/v1.6.0...v1.6.1) (2023-11-28)
 
 
