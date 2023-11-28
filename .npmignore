@@ -6,5 +6,5 @@ node_modules/
 *.json
 .husky/
 tsconfig.json
-README.md
 .github/
+.releaserc
