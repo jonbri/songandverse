@@ -1,5 +1,10 @@
 const fs = require("fs");
 
+// require('conventional-changelog')({
+//   preset: 'angular',
+//   releaseCount: 0
+// }).pipe(process.stdout);
+
 async function prepare(config, context) {
   const changeLogPath = "CHANGELOG.md";
   console.log("changeLogPath", changeLogPath);

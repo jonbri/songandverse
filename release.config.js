@@ -5,7 +5,7 @@ module.exports = {
     [
       "@semantic-release/release-notes-generator",
       {
-        linkCompare: false,
+        releaseCount: 0,
       },
     ],
     "@semantic-release/changelog",
