@@ -5,6 +5,6 @@ module.exports = {
     "@semantic-release/release-notes-generator",
     "@semantic-release/changelog",
     "@semantic-release/npm",
-    require('./semantic-release-plugin')
+    require("./semantic-release-plugin")
   ]
 };
