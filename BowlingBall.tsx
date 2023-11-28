@@ -1,4 +1,3 @@
-// change 0
 import {
   useEffect,
   useState,
@@ -7,6 +6,8 @@ import {
   ReactNode,
   CSSProperties,
 } from "react";
+
+const defaultColor = "red";
 
 const useBallStyle = () => {
   return {
@@ -102,7 +103,7 @@ export const BowlingBall = forwardRef<HTMLDivElement, BowlingBallProps>(
         style={{
           height: `${height}px`,
           width,
-          backgroundColor: index % 2 === 0 ? "silver" : "lightgreen",
+          backgroundColor: index % 2 === 0 ? defaultColor : "lightgreen",
         }}
       >
         <strong>{index}</strong>
