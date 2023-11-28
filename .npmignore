@@ -1,5 +1,10 @@
-node_modules
+!dist/
+node_modules/
 *.ts
 *.tsx
 *.config.js
 *.json
+.husky/
+tsconfig.json
+README.md
+.github/
