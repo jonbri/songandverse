@@ -11,6 +11,7 @@ module.exports = {
         "assets": ["CHANGELOG.md"]
       }
     ],
+    require('./semantic-release-plugin'),
     "@semantic-release/github"
   ]
 };
