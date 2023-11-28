@@ -102,7 +102,7 @@ export const BowlingBall = forwardRef<HTMLDivElement, BowlingBallProps>(
         style={{
           height: `${height}px`,
           width,
-          backgroundColor: index % 2 === 0 ? "gold" : "lightgreen",
+          backgroundColor: index % 2 === 0 ? "green" : "lightgreen",
         }}
       >
         <strong>{index}</strong>
