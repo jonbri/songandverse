@@ -11,6 +11,13 @@ yarn
 yarn dev # localhost:5173
 ```
 
+BowlingBall color:
+
+```sh
+yarn color # show color
+yarn color green # set color
+```
+
 ## CI
 
 Pushing to `main` will trigger a [workflow](https://github.com/jonbri/songandverse/tree/main/.github/workflows):
