@@ -3,6 +3,6 @@ module.exports = {
   plugins: [
     "@semantic-release/commit-analyzer",
     "@semantic-release/npm",
-    require("./semantic-release-plugin"),
+    require("./src/plugin/semantic-release-plugin"),
   ],
 };

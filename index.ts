@@ -1,3 +1,1 @@
-export * from "./BowlingBall";
-export * from "./Pin";
-export * from "./Pins";
+export * from "./src";
