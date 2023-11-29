@@ -3,7 +3,7 @@ import { forwardRef, ReactNode } from "react";
 export interface PinsProps {
   children: ReactNode;
 }
-export const Pin = forwardRef<HTMLDivElement, PinsProps>(
+export const Pins = forwardRef<HTMLDivElement, PinsProps>(
   ({ children }: PinsProps, ref) => {
     return (
       <div
