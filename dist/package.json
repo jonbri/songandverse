@@ -1,0 +1,17 @@
+{
+  "name": "songandverse",
+  "version": "0.0.1",
+  "main": "./index.js",
+  "types": "./index.d.ts",
+  "private": false,
+  "description": "Playing with semantic-release",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonbri/songandverse.git"
+  },
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
