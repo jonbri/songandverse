@@ -9,9 +9,11 @@ export const Pin = forwardRef<HTMLDivElement, PinProps>(
       <div
         ref={ref}
         style={{
-          height: `100px`,
-          width: `20px`,
+          height: "100px",
+          width: "20px",
           backgroundColor: "lightyellow",
+          border: "1px solid silver",
+          borderRadius: "5px",
         }}
       >
         {children}
