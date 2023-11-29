@@ -6,7 +6,7 @@ module.exports = {
       "@semantic-release/npm",
       {
         pkgRoot: "./dist",
-      }
+      },
     ],
     require("./src/plugin/semantic-release-plugin"),
   ],

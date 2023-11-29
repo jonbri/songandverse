@@ -1,8 +1,6 @@
 {
   "name": "songandverse",
   "version": "0.0.1",
-  "main": "./dist/index.js",
-  "types": "./dist/index.d.ts",
   "private": false,
   "description": "Playing with semantic-release",
   "repository": {
@@ -11,7 +9,7 @@
   },
   "scripts": {
     "format": "prettier --write \"**/*.{js,ts,tsx,md}\"",
-    "build": "tsup index.ts --format cjs --dts",
+    "build": "tsup src/index.ts --format cjs --dts",
     "color": "./bin/color.sh"
   },
   "author": "Jonathan Brink",
