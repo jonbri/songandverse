@@ -1,7 +1,7 @@
 #!/bin/bash
 
 color=$1
-file="BowlingBall.tsx"
+file="src/components/BowlingBall.tsx"
 
 if [ -z "$color" ]
 then
