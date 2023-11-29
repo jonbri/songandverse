@@ -28,5 +28,5 @@ Pushing to `main` will trigger a [workflow](https://github.com/jonbri/songandver
 ## Usage
 
 ```tsx
-import { BowlingBall } from "songandverse";
+import { BowlingBall, Pin } from "songandverse";
 ```
