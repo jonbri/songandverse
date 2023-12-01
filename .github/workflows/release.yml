@@ -3,6 +3,8 @@ on:
   push:
     branches:
       - main
+      - next
+      - 'releases/**'
 jobs:
   release:
     name: Release
