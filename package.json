@@ -12,6 +12,7 @@
     "format": "prettier --write \"**/*.{js,ts,tsx,md}\"",
     "build": "tsup src/index.ts --format cjs --dts",
     "semantic-release": "semantic-release",
+    "semantic-release:local": "bash ./bin/semantic-release-local.sh",
     "color": "./bin/color.sh"
   },
   "author": "Jonathan Brink",
