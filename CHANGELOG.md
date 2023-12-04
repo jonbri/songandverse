@@ -1,3 +1,12 @@
+## [4.0.4](https://github.com/jonbri/songandverse/compare/v4.0.3...v4.0.4) (2023-12-04)
+
+
+### Bug Fixes
+
+* bump ([516a2b4](https://github.com/jonbri/songandverse/commit/516a2b456c27aae4e2cc1257f401ca2776c917ba))
+* gold ([690ab7e](https://github.com/jonbri/songandverse/commit/690ab7ea1b3c4629995b7588731364f9c4811325))
+* silver ([0d382e0](https://github.com/jonbri/songandverse/commit/0d382e0f16e190c68b7f7208ae9d6c370ff51545))
+
 ## [4.0.2](https://github.com/jonbri/songandverse/compare/v4.0.1...v4.0.2) (2023-12-04)
 
 
