@@ -1,3 +1,10 @@
+## [5.0.1](https://github.com/jonbri/songandverse/compare/v5.0.0...v5.0.1) (2023-12-04)
+
+
+### Bug Fixes
+
+* semantic-release as a dev dep ([89cdbef](https://github.com/jonbri/songandverse/commit/89cdbef637101bd61cb6c159ff78a891402ecc2d))
+
 # [5.0.0](https://github.com/jonbri/songandverse/compare/v4.0.7...v5.0.0) (2023-12-04)
 
 
