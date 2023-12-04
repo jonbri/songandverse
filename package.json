@@ -5,7 +5,7 @@
   "description": "Playing with semantic-release",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jonbri/songandverse.git"
+    "url": "git+https://github.com/jonbri/songandverse.git"
   },
   "scripts": {
     "format": "prettier --write \"**/*.{js,ts,tsx,md}\"",
