@@ -1,3 +1,11 @@
+## [5.1.2](https://github.com/jonbri/songandverse/compare/v5.1.1...v5.1.2) (2023-12-04)
+
+
+### Bug Fixes
+
+* gold ([bd386a0](https://github.com/jonbri/songandverse/commit/bd386a00d979dfc06deb06ee58de4d9b67ced2d8))
+* new branching strategy ([47ec990](https://github.com/jonbri/songandverse/commit/47ec9903735dd287d84ad16ca84f57631131655a))
+
 ## [5.1.1](https://github.com/jonbri/songandverse/compare/v5.1.0...v5.1.1) (2023-12-04)
 
 
