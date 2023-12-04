@@ -11,7 +11,7 @@ export const Pin = forwardRef<HTMLDivElement, PinProps>(
         style={{
           height: "100px",
           width: "20px",
-          backgroundColor: "lightyellow",
+          backgroundColor: "white",
           border: "1px solid silver",
           borderRadius: "5px",
         }}
