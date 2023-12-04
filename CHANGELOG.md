@@ -1,3 +1,15 @@
+# [4.0.0](https://github.com/jonbri/songandverse/compare/v3.1.2...v4.0.0) (2023-12-04)
+
+
+### Features
+
+* white ([8e96eff](https://github.com/jonbri/songandverse/commit/8e96effb11a3d5d0a49f5051f3b8418c8d5779c3))
+
+
+### BREAKING CHANGES
+
+* bump
+
 ## [3.1.2](https://github.com/jonbri/songandverse/compare/v3.1.1...v3.1.2) (2023-12-04)
 
 
