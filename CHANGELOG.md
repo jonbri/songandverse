@@ -1,3 +1,10 @@
+## [4.0.6](https://github.com/jonbri/songandverse/compare/v4.0.5...v4.0.6) (2023-12-04)
+
+
+### Bug Fixes
+
+* blue ([3571f89](https://github.com/jonbri/songandverse/commit/3571f898d630d9d0debebfa10edf0174214ec159))
+
 ## [4.0.5](https://github.com/jonbri/songandverse/compare/v4.0.4...v4.0.5) (2023-12-04)
 
 
