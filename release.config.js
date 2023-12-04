@@ -20,6 +20,7 @@ module.exports = {
         assets: "./CHANGELOG.md",
       },
     ],
+    "@semantic-release/github",
 
     // require("./src/plugin/semantic-release-plugin"),
   ],
