@@ -1,3 +1,11 @@
+## [5.0.2](https://github.com/jonbri/songandverse/compare/v5.0.1...v5.0.2) (2023-12-04)
+
+
+### Bug Fixes
+
+* greeeen ([778aa3a](https://github.com/jonbri/songandverse/commit/778aa3a9e0996b8310fa1e4df9949f02bc907f1e))
+* merge 3.x ([8615db8](https://github.com/jonbri/songandverse/commit/8615db802cce20c24f3b84fe154002079c9bca01))
+
 ## [5.0.1](https://github.com/jonbri/songandverse/compare/v5.0.0...v5.0.1) (2023-12-04)
 
 
