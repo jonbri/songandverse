@@ -1,3 +1,10 @@
+## [3.1.3](https://github.com/jonbri/songandverse/compare/v3.1.2...v3.1.3) (2023-12-04)
+
+
+### Bug Fixes
+
+* gold ([a32b05a](https://github.com/jonbri/songandverse/commit/a32b05a8cc4318f3d008a05fb84c37a5e82b88d8))
+
 ## [3.1.2](https://github.com/jonbri/songandverse/compare/v3.1.1...v3.1.2) (2023-12-04)
 
 
