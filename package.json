@@ -8,6 +8,7 @@
     "url": "git+https://github.com/jonbri/songandverse.git"
   },
   "scripts": {
+    "test": "prettier --check \"**/*.{js,ts,tsx,md}\"",
     "format": "prettier --write \"**/*.{js,ts,tsx,md}\"",
     "build": "tsup src/index.ts --format cjs --dts",
     "color": "./bin/color.sh"
