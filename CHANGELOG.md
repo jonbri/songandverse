@@ -1,3 +1,10 @@
+## [5.1.3-main.4](https://github.com/jonbri/songandverse/compare/v5.1.3-main.3...v5.1.3-main.4) (2023-12-04)
+
+
+### Bug Fixes
+
+* e ([fe6b85e](https://github.com/jonbri/songandverse/commit/fe6b85e97d7405060dcf87d2e0842dc785bb42fc))
+
 ## [5.1.3-main.3](https://github.com/jonbri/songandverse/compare/v5.1.3-main.2...v5.1.3-main.3) (2023-12-04)
 
 
