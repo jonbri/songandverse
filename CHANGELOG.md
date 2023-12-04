@@ -1,3 +1,10 @@
+## [4.0.5](https://github.com/jonbri/songandverse/compare/v4.0.4...v4.0.5) (2023-12-04)
+
+
+### Bug Fixes
+
+* red ([9cb4aa5](https://github.com/jonbri/songandverse/commit/9cb4aa5db945815ecde3e3c1b18a7b3eaee5e3d7))
+
 ## [4.0.4](https://github.com/jonbri/songandverse/compare/v4.0.3...v4.0.4) (2023-12-04)
 
 
