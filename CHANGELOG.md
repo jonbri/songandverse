@@ -1,3 +1,10 @@
+## [4.0.2](https://github.com/jonbri/songandverse/compare/v4.0.1...v4.0.2) (2023-12-04)
+
+
+### Bug Fixes
+
+* even bigger width ([b2e40d9](https://github.com/jonbri/songandverse/commit/b2e40d9350971124624f39cbd1b03a97f74bcdff))
+
 # [4.0.0](https://github.com/jonbri/songandverse/compare/v3.1.2...v4.0.0) (2023-12-04)
 
 
