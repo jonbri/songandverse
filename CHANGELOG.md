@@ -1,3 +1,15 @@
+# [5.0.0](https://github.com/jonbri/songandverse/compare/v4.0.7...v5.0.0) (2023-12-04)
+
+
+### Bug Fixes
+
+* yellow breaking ([908af76](https://github.com/jonbri/songandverse/commit/908af769789d3274935e01a83f340e1ef3a91930))
+
+
+### BREAKING CHANGES
+
+* this is a breaking change
+
 ## [4.0.7](https://github.com/jonbri/songandverse/compare/v4.0.6...v4.0.7) (2023-12-04)
 
 
