@@ -3,11 +3,6 @@ on:
   push:
     branches:
       - '**'
-  workflow_dispatch:
-    inputs:
-      foo:
-        type: string
-        default: 'bar'
 jobs:
   release:
     name: Release
