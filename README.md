@@ -1,6 +1,6 @@
 # songandverse
 
-Sample component library.
+Sample component library
 
 ## Setup
 
