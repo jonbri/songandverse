@@ -1,3 +1,10 @@
+## [3.1.2](https://github.com/jonbri/songandverse/compare/v3.1.1...v3.1.2) (2023-12-04)
+
+
+### Bug Fixes
+
+* purple ([62843ef](https://github.com/jonbri/songandverse/commit/62843ef1712d0850b72083686510b64bc54dceb3))
+
 ## [3.1.1](https://github.com/jonbri/songandverse/compare/v3.1.0...v3.1.1) (2023-12-04)
 
 
