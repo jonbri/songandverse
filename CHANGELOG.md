@@ -1,3 +1,10 @@
+## [5.2.2-main.1](https://github.com/jonbri/songandverse/compare/v5.2.1...v5.2.2-main.1) (2023-12-05)
+
+
+### Bug Fixes
+
+* no final pr ([d1eaad8](https://github.com/jonbri/songandverse/commit/d1eaad89596392173b4362a1f128e6cf96b6165e))
+
 ## [5.2.1](https://github.com/jonbri/songandverse/compare/v5.2.0...v5.2.1) (2023-12-05)
 
 
