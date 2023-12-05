@@ -1,3 +1,10 @@
+## [5.1.12](https://github.com/jonbri/songandverse/compare/v5.1.11...v5.1.12) (2023-12-05)
+
+
+### Bug Fixes
+
+* main only runs on tag ([77e8461](https://github.com/jonbri/songandverse/commit/77e84617cd98d1e4d95b73986faf2e554674c75d))
+
 ## [5.1.12-main.1](https://github.com/jonbri/songandverse/compare/v5.1.11...v5.1.12-main.1) (2023-12-05)
 
 
