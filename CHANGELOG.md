@@ -1,3 +1,10 @@
+## [5.1.8-main.1](https://github.com/jonbri/songandverse/compare/v5.1.7...v5.1.8-main.1) (2023-12-05)
+
+
+### Bug Fixes
+
+* clean up ci ([b8d8cf9](https://github.com/jonbri/songandverse/commit/b8d8cf94650fc17fbf9072f1ea08ebb4aaadd8dc))
+
 ## [5.1.7](https://github.com/jonbri/songandverse/compare/v5.1.6...v5.1.7) (2023-12-05)
 
 
