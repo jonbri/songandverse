@@ -1,8 +1,8 @@
 name: Main
 on:
   push:
-    branches:
-      - 'prod'
+    tags:
+      - v.*.*.*
 jobs:
   release:
     name: Release
