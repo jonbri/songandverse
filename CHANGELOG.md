@@ -1,3 +1,10 @@
+## [5.1.19-main.1](https://github.com/jonbri/songandverse/compare/v5.1.18...v5.1.19-main.1) (2023-12-05)
+
+
+### Bug Fixes
+
+* origin main ([b2d07e1](https://github.com/jonbri/songandverse/commit/b2d07e16ec39a3198a52236672e8d0732e9b3a0c))
+
 ## [5.1.18](https://github.com/jonbri/songandverse/compare/v5.1.17...v5.1.18) (2023-12-05)
 
 
