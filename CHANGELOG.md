@@ -1,3 +1,10 @@
+## [5.1.17](https://github.com/jonbri/songandverse/compare/v5.1.16...v5.1.17) (2023-12-05)
+
+
+### Bug Fixes
+
+* bump red ([2c1a987](https://github.com/jonbri/songandverse/commit/2c1a987a087e0d772c8ff7ae69e3391f034aeb06))
+
 ## [5.1.17-main.1](https://github.com/jonbri/songandverse/compare/v5.1.16...v5.1.17-main.1) (2023-12-05)
 
 
