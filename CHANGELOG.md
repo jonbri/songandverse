@@ -1,3 +1,11 @@
+## [5.1.11-main.1](https://github.com/jonbri/songandverse/compare/v5.1.10...v5.1.11-main.1) (2023-12-05)
+
+
+### Bug Fixes
+
+* bump orange ([7446bb3](https://github.com/jonbri/songandverse/commit/7446bb3c28cce68a5e26084da84b574416504fa5))
+* main auto-runs ([46e4e08](https://github.com/jonbri/songandverse/commit/46e4e085d193cc78a7a962225376bd74bfa44029))
+
 ## [5.1.10](https://github.com/jonbri/songandverse/compare/v5.1.9...v5.1.10) (2023-12-05)
 
 ## [5.1.10-main.2](https://github.com/jonbri/songandverse/compare/v5.1.10-main.1...v5.1.10-main.2) (2023-12-05)
