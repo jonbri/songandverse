@@ -1,3 +1,10 @@
+## [5.1.14](https://github.com/jonbri/songandverse/compare/v5.1.13...v5.1.14) (2023-12-05)
+
+
+### Bug Fixes
+
+* bump gold ([1f05085](https://github.com/jonbri/songandverse/commit/1f05085b0680e77370680bb1777da9725fa8fb02))
+
 ## [5.1.14-main.1](https://github.com/jonbri/songandverse/compare/v5.1.13...v5.1.14-main.1) (2023-12-05)
 
 
