@@ -27,4 +27,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: yarn semantic-release
+      - name: Main
+        run: |
+          git config --global user.name 'Jonathan Brink'
+          git config --global user.email 'jonbri@users.noreply.github.com'
+          git checkout main
+          git merge --no-ff prod
+          git push
+      - name: PR
+        uses: peter-evans/create-pull-request@v5
 
