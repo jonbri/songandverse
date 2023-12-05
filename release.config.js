@@ -14,6 +14,12 @@ module.exports = {
       },
     ],
     [
+      "@semantic-release/exec",
+      {
+        "publishCmd": "cp ./CHANGELOG.md ./dist/CHANGELOG.md",
+      }
+    ],
+    [
       "@semantic-release/npm",
       {
         pkgRoot: "./dist",
