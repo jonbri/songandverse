@@ -1,3 +1,10 @@
+## [5.1.15-main.1](https://github.com/jonbri/songandverse/compare/v5.1.14...v5.1.15-main.1) (2023-12-05)
+
+
+### Bug Fixes
+
+* triggers ([76f4425](https://github.com/jonbri/songandverse/commit/76f44251efe131b85dc8ce2be8014aa9619a2e06))
+
 ## [5.1.14](https://github.com/jonbri/songandverse/compare/v5.1.13...v5.1.14) (2023-12-05)
 
 
