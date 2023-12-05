@@ -1,3 +1,17 @@
+## [5.1.6-main.3](https://github.com/jonbri/songandverse/compare/v5.1.6-main.2...v5.1.6-main.3) (2023-12-05)
+
+
+### Bug Fixes
+
+* typo ([896ec29](https://github.com/jonbri/songandverse/commit/896ec2913ec9d2654d9f37eee59b1d4b7526673b))
+
+## [5.1.6-main.2](https://github.com/jonbri/songandverse/compare/v5.1.6-main.1...v5.1.6-main.2) (2023-12-05)
+
+
+### Bug Fixes
+
+* create pr ([dec374a](https://github.com/jonbri/songandverse/commit/dec374aa21118b5b56ee54d9e95f4a8339638dc5))
+
 ## [5.1.6-main.1](https://github.com/jonbri/songandverse/compare/v5.1.5...v5.1.6-main.1) (2023-12-04)
 
 
