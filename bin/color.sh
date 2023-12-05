@@ -11,5 +11,7 @@ fi
 sed -i -e "s/const defaultColor = \".*$/const defaultColor = \"${color}\";/" $file
 git add .
 git commit -m "fix: bump $1"
+clear
+git show
 git status
 
