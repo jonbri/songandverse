@@ -1,8 +1,19 @@
-## [5.1.10](https://github.com/jonbri/songandverse/compare/v5.1.9...v5.1.10) (2023-12-05)
+## [5.1.11-main.1](https://github.com/jonbri/songandverse/compare/v5.1.10...v5.1.11-main.1) (2023-12-05)
 
 
 ### Bug Fixes
 
+* bump orange ([7446bb3](https://github.com/jonbri/songandverse/commit/7446bb3c28cce68a5e26084da84b574416504fa5))
+* main auto-runs ([46e4e08](https://github.com/jonbri/songandverse/commit/46e4e085d193cc78a7a962225376bd74bfa44029))
+
+## [5.1.10](https://github.com/jonbri/songandverse/compare/v5.1.9...v5.1.10) (2023-12-05)
+
+## [5.1.10-main.2](https://github.com/jonbri/songandverse/compare/v5.1.10-main.1...v5.1.10-main.2) (2023-12-05)
+
+
+### Bug Fixes
+
+* main auto-runs ([46e4e08](https://github.com/jonbri/songandverse/commit/46e4e085d193cc78a7a962225376bd74bfa44029))
 * bump blue ([809f0c9](https://github.com/jonbri/songandverse/commit/809f0c90eb697ab216f963b2c07b01d05b31193c))
 * bump gold ([5711feb](https://github.com/jonbri/songandverse/commit/5711feb63b8b2478c25ade3b664ec6b653ec56e2))
 * fetch-depth: 0 ([2cc75e6](https://github.com/jonbri/songandverse/commit/2cc75e6450e0b15b75f4145103575f2815a48d34))
