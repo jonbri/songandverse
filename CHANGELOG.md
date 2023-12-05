@@ -1,3 +1,11 @@
+## [5.1.9-main.3](https://github.com/jonbri/songandverse/compare/v5.1.9-main.2...v5.1.9-main.3) (2023-12-05)
+
+
+### Bug Fixes
+
+* bump blue ([809f0c9](https://github.com/jonbri/songandverse/commit/809f0c90eb697ab216f963b2c07b01d05b31193c))
+* bump gold ([5711feb](https://github.com/jonbri/songandverse/commit/5711feb63b8b2478c25ade3b664ec6b653ec56e2))
+
 ## [5.1.9-main.2](https://github.com/jonbri/songandverse/compare/v5.1.9-main.1...v5.1.9-main.2) (2023-12-05)
 
 
