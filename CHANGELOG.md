@@ -1,3 +1,10 @@
+## [5.1.16](https://github.com/jonbri/songandverse/compare/v5.1.15...v5.1.16) (2023-12-05)
+
+
+### Bug Fixes
+
+* tags in strings ([75d52ba](https://github.com/jonbri/songandverse/commit/75d52ba3cdc8029fd7d547946b83ad48cd5fc235))
+
 ## [5.1.16-main.1](https://github.com/jonbri/songandverse/compare/v5.1.15...v5.1.16-main.1) (2023-12-05)
 
 
