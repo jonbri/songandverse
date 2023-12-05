@@ -1,3 +1,11 @@
+## [5.1.13](https://github.com/jonbri/songandverse/compare/v5.1.12...v5.1.13) (2023-12-05)
+
+
+### Bug Fixes
+
+* prod ([3bd6324](https://github.com/jonbri/songandverse/commit/3bd6324895761ecc208346b6bbcbc52dfe037523))
+* update triggers ([568ea7c](https://github.com/jonbri/songandverse/commit/568ea7c631841c4184075a7dea5fe39036a8ee82))
+
 ## [5.1.13-main.2](https://github.com/jonbri/songandverse/compare/v5.1.13-main.1...v5.1.13-main.2) (2023-12-05)
 
 
