@@ -1,3 +1,10 @@
+# [5.2.0](https://github.com/jonbri/songandverse/compare/v5.1.19...v5.2.0) (2023-12-05)
+
+
+### Features
+
+* bump gold ([33ef972](https://github.com/jonbri/songandverse/commit/33ef972187de5bed2ecd3d1b51aac0852c47ed3e))
+
 # [5.2.0-main.1](https://github.com/jonbri/songandverse/compare/v5.1.19...v5.2.0-main.1) (2023-12-05)
 
 
