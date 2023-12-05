@@ -1,3 +1,10 @@
+## [5.1.9-main.2](https://github.com/jonbri/songandverse/compare/v5.1.9-main.1...v5.1.9-main.2) (2023-12-05)
+
+
+### Bug Fixes
+
+* trivial1 ([c3fa8ec](https://github.com/jonbri/songandverse/commit/c3fa8ec16383d68abd3bb8add7a47a135a9f68a8))
+
 ## [5.1.9-main.1](https://github.com/jonbri/songandverse/compare/v5.1.8...v5.1.9-main.1) (2023-12-05)
 
 
