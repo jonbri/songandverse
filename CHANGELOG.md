@@ -1,3 +1,10 @@
+## [5.2.1-main.1](https://github.com/jonbri/songandverse/compare/v5.2.0...v5.2.1-main.1) (2023-12-05)
+
+
+### Bug Fixes
+
+* remove ampersands ([6b380ac](https://github.com/jonbri/songandverse/commit/6b380ac3b355f473959e52351c1adc1c33e75d08))
+
 # [5.2.0](https://github.com/jonbri/songandverse/compare/v5.1.19...v5.2.0) (2023-12-05)
 
 
