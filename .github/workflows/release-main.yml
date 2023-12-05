@@ -1,11 +1,12 @@
-name: Release
+name: ReleaseMain
 on:
   push:
     branches:
-      - '**'
+      - 'main'
 jobs:
   release:
     name: Release
+    if: (github.event_name == 'push' && contains(toJSON(github.event.head_commit.message), 'Merge pull request ') == false)
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
