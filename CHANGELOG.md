@@ -1,3 +1,10 @@
+## [5.1.9-main.4](https://github.com/jonbri/songandverse/compare/v5.1.9-main.3...v5.1.9-main.4) (2023-12-05)
+
+
+### Bug Fixes
+
+* fetch-depth: 0 ([2cc75e6](https://github.com/jonbri/songandverse/commit/2cc75e6450e0b15b75f4145103575f2815a48d34))
+
 ## [5.1.9-main.3](https://github.com/jonbri/songandverse/compare/v5.1.9-main.2...v5.1.9-main.3) (2023-12-05)
 
 
