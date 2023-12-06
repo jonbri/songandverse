@@ -14,7 +14,7 @@ export const Pin = forwardRef<HTMLDivElement, PinProps>(
           backgroundColor: "white",
           border: "1px solid silver",
           borderRadius: "5px",
-          textAlign: "center"
+          textAlign: "center",
         }}
       >
         {children}
