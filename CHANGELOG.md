@@ -1,3 +1,10 @@
+## [5.2.4](https://github.com/jonbri/songandverse/compare/v5.2.3...v5.2.4) (2023-12-06)
+
+
+### Bug Fixes
+
+* ci tweak ([3fda66e](https://github.com/jonbri/songandverse/commit/3fda66e0fcd44888a23b3beb6a3d54f7f58cf9d8))
+
 ## [5.2.4-main.1](https://github.com/jonbri/songandverse/compare/v5.2.3...v5.2.4-main.1) (2023-12-06)
 
 
