@@ -15,7 +15,7 @@ yarn dev # localhost:5173
 
 ```sh
 yarn color # show color
-yarn color green # set color
+yarn color blue # set color
 ```
 
 ## CI
