@@ -1,3 +1,10 @@
+# [5.3.0-main.1](https://github.com/jonbri/songandverse/compare/v5.2.8...v5.3.0-main.1) (2023-12-06)
+
+
+### Features
+
+* 3 -> 1 ([ca77fce](https://github.com/jonbri/songandverse/commit/ca77fce622404838f7a3cb30678ae2e289bc632d))
+
 ## [5.2.8](https://github.com/jonbri/songandverse/compare/v5.2.7...v5.2.8) (2023-12-06)
 
 
