@@ -1,3 +1,10 @@
+## [5.2.7-main.1](https://github.com/jonbri/songandverse/compare/v5.2.6...v5.2.7-main.1) (2023-12-06)
+
+
+### Bug Fixes
+
+* bump green ([591b240](https://github.com/jonbri/songandverse/commit/591b240d85d9bfc41d5b3bc1a5b0efac414b4f39))
+
 ## [5.2.6](https://github.com/jonbri/songandverse/compare/v5.2.5...v5.2.6) (2023-12-06)
 
 
