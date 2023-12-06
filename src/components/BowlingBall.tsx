@@ -7,7 +7,7 @@ import {
   CSSProperties,
 } from "react";
 
-const defaultColor = "seven01";
+const defaultColor = "seven02";
 
 const useBallStyle = () => {
   return {
