@@ -1,3 +1,10 @@
+## [7.0.3](https://github.com/jonbri/songandverse/compare/v7.0.2...v7.0.3) (2023-12-06)
+
+
+### Bug Fixes
+
+* bump seven02m0 ([ec22fda](https://github.com/jonbri/songandverse/commit/ec22fda8a3feeed720e05837865d4b06b707604d))
+
 ## [7.0.2](https://github.com/jonbri/songandverse/compare/v7.0.1...v7.0.2) (2023-12-06)
 
 
