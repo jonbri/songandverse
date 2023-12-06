@@ -11,7 +11,7 @@
     "test": "prettier --check \"**/*.{js,ts,tsx,md}\"",
     "format": "prettier --write \"**/*.{js,ts,tsx,md}\"",
     "build": "tsup src/index.ts --format cjs --dts",
-    "semantic-release": "semantic-release --dry-run",
+    "semantic-release": "semantic-release",
     "color": "./bin/color.sh"
   },
   "author": "Jonathan Brink",
