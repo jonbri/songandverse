@@ -1,3 +1,15 @@
+# [8.0.0](https://github.com/jonbri/songandverse/compare/v7.0.2...v8.0.0) (2023-12-06)
+
+
+### Bug Fixes
+
+* bump major8 ([fc7d738](https://github.com/jonbri/songandverse/commit/fc7d738e4d7b88b9728740950d119c6d368631eb))
+
+
+### BREAKING CHANGES
+
+* go to 8
+
 # [8.0.0-main.1](https://github.com/jonbri/songandverse/compare/v7.0.2...v8.0.0-main.1) (2023-12-06)
 
 
