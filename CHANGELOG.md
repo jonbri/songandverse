@@ -1,3 +1,10 @@
+## [8.0.2](https://github.com/jonbri/songandverse/compare/v8.0.1...v8.0.2) (2023-12-06)
+
+
+### Bug Fixes
+
+* doc fix ([8987e74](https://github.com/jonbri/songandverse/commit/8987e742b2e4ceb73cd31c844fd945c450065214))
+
 ## [8.0.2-main.1](https://github.com/jonbri/songandverse/compare/v8.0.1...v8.0.2-main.1) (2023-12-06)
 
 
