@@ -2,8 +2,8 @@ name: Promote
 on:
   workflow_dispatch:
 jobs:
-  release:
-    name: Release
+  Promote:
+    name: Promote
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
