@@ -1,3 +1,15 @@
+# [6.0.0](https://github.com/jonbri/songandverse/compare/v5.3.0...v6.0.0) (2023-12-06)
+
+
+### Bug Fixes
+
+* bump black ([356d2db](https://github.com/jonbri/songandverse/commit/356d2db198a49275cadf922148c4fb536c995265))
+
+
+### BREAKING CHANGES
+
+* onto next major
+
 # [6.0.0-main.1](https://github.com/jonbri/songandverse/compare/v5.3.0...v6.0.0-main.1) (2023-12-06)
 
 
