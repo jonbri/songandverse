@@ -1,3 +1,15 @@
+# [7.0.0](https://github.com/jonbri/songandverse/compare/v6.0.1...v7.0.0) (2023-12-06)
+
+
+### Bug Fixes
+
+* bump green ([4394ee9](https://github.com/jonbri/songandverse/commit/4394ee9a4664d1166a738fa562ef8d0fe4289e56))
+
+
+### BREAKING CHANGES
+
+* bump to another major
+
 # [7.0.0-main.1](https://github.com/jonbri/songandverse/compare/v6.0.1...v7.0.0-main.1) (2023-12-06)
 
 
