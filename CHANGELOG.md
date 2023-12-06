@@ -1,3 +1,10 @@
+## [8.0.1-main.1](https://github.com/jonbri/songandverse/compare/v8.0.0...v8.0.1-main.1) (2023-12-06)
+
+
+### Bug Fixes
+
+* bump backonmain ([bbc3d7b](https://github.com/jonbri/songandverse/commit/bbc3d7bec0c172dc1ec52b0eb874be80e395aa2a))
+
 # [8.0.0](https://github.com/jonbri/songandverse/compare/v7.0.2...v8.0.0) (2023-12-06)
 
 
