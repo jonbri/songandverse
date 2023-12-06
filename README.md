@@ -11,7 +11,7 @@ yarn
 yarn dev # localhost:5173
 ```
 
-BowlingBall color:
+`BowlingBall` color:
 
 ```sh
 yarn color # show color
