@@ -1,3 +1,12 @@
+## [6.0.1-main.1](https://github.com/jonbri/songandverse/compare/v6.0.0...v6.0.1-main.1) (2023-12-06)
+
+
+### Bug Fixes
+
+* bump sixO1 ([39e575f](https://github.com/jonbri/songandverse/commit/39e575f24ce9955d8919f44fad2a723cbb79bab4))
+* formatting ([1e94cfd](https://github.com/jonbri/songandverse/commit/1e94cfd81e55c2b8fc8d685dcce8b3956b5a8573))
+* pin textalign ([60a316d](https://github.com/jonbri/songandverse/commit/60a316dabbe325a94160b8826258f000a3e67f77))
+
 # [6.0.0](https://github.com/jonbri/songandverse/compare/v5.3.0...v6.0.0) (2023-12-06)
 
 
