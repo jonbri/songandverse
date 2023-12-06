@@ -7,7 +7,7 @@ import {
   CSSProperties,
 } from "react";
 
-const defaultColor = "backonmain";
+const defaultColor = "red";
 
 const useBallStyle = () => {
   return {
