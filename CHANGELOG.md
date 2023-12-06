@@ -1,3 +1,10 @@
+## [5.2.6](https://github.com/jonbri/songandverse/compare/v5.2.5...v5.2.6) (2023-12-06)
+
+
+### Bug Fixes
+
+* green -> blue ([9bb727e](https://github.com/jonbri/songandverse/commit/9bb727efb1a1c6ff1b2720c6e321aa38f9ee2af8))
+
 ## [5.2.6-main.1](https://github.com/jonbri/songandverse/compare/v5.2.5...v5.2.6-main.1) (2023-12-06)
 
 
