@@ -1,3 +1,10 @@
+## [5.2.8-main.1](https://github.com/jonbri/songandverse/compare/v5.2.7...v5.2.8-main.1) (2023-12-06)
+
+
+### Bug Fixes
+
+* bump pink ([4c0a568](https://github.com/jonbri/songandverse/commit/4c0a568bac53e438d094a2381e6bb753c611142c))
+
 ## [5.2.7](https://github.com/jonbri/songandverse/compare/v5.2.6...v5.2.7) (2023-12-06)
 
 
