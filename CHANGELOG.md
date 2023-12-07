@@ -1,3 +1,20 @@
+# [8.1.0](https://github.com/jonbri/songandverse/compare/v8.0.3...v8.1.0) (2023-12-07)
+
+
+### Bug Fixes
+
+* **RadioGroup:** fix off-by-one error ([7a64eea](https://github.com/jonbri/songandverse/commit/7a64eea8bfeff98528518c529aae55458b1df0bd))
+
+
+### Features
+
+* **Input:** implement new feature ([09755d8](https://github.com/jonbri/songandverse/commit/09755d895733ef84466ec20edd7a7a0a9a2c6959))
+
+
+### Performance Improvements
+
+* return early from function ([28407f5](https://github.com/jonbri/songandverse/commit/28407f547e3c021d8925d5993a7708cc036c98ae))
+
 # [8.1.0-main.1](https://github.com/jonbri/songandverse/compare/v8.0.3...v8.1.0-main.1) (2023-12-07)
 
 
