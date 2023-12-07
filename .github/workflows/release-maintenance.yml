@@ -1,11 +1,11 @@
-name: ReleaseMaintaince
+name: ReleaseMaintenance
 on:
   push:
     branches:
       - '[0-9]+.x'
 jobs:
   release:
-    name: ReleaseMaintaince
+    name: ReleaseMaintenance
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
